@@ -1,3 +1,4 @@
+//portions taken of the original requirejs amd-loader plugin
 define(['module'], function (module) {
     'use strict';
 
